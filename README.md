@@ -4,7 +4,7 @@ I denna del ska du lära dig att programmera en s.k. Pyportal att göra ett anta
 
 <img src="https://github.com/Pauli-em-22/assets/blob/main/em2425.jpg" alt="Your image title" width="650"/>
 
-I [ToDo](ToDo.txt) ser du exakt vilka issues som ska lösas. Du ska skapa nya branches för varje betygsnivå, och göra en s.k. Pull Request (PR) när du gjort alla issues för den nivån. Denna PR godkänner jag. Du kan under tiden fortsätta med en ny branch (Create from E-level) och sedan göra en Rebase när PR är godkänd.
+I [ToDo](ToDo.txt) ser du exakt vilka issues som ska lösas. Du ska skapa issues för var och en och lösa dem en efter en.
 
 Learn guides:
 * [Intro Pyportal](https://learn.adafruit.com/adafruit-pyportal-titano/overview) Vi kommer inte använda Mu. Skippa FAQ, Troubleshooting och Uninstalling. Läs t.o.m. Internet connect. Uppgradera sedan ESP32 firmware lite längre ner.
