@@ -9,7 +9,8 @@ I [ToDo](ToDo.txt) ser du exakt vilka issues som ska lösas. Du ska skapa issues
 Learn guides:
 * [Intro Pyportal](https://learn.adafruit.com/adafruit-pyportal-titano/overview) Vi kommer inte använda Mu. Skippa FAQ, Troubleshooting och Uninstalling. Läs t.o.m. Internet connect. Uppgradera sedan ESP32 firmware lite längre ner.
 * [VS Code och CPY](https://learn.adafruit.com/using-the-circuitpython-extension-for-visual-studio-code/overview)
-  
+
+* [Weather data](https://open-meteo.com/en/docs)
 * [Using Fonts](https://learn.adafruit.com/custom-fonts-for-pyportal-circuitpython-display?view=all)
 * [Lathund om Fonts](https://adafruit-playground.com/u/Timeline/pages/creating-reduced-sized-bitmap-fonts-from-ttf-file). Observera att du måste åter markera de du vill ha efter steg 5.
 * [Massor med trix, bland annat hur startar olika code.py](https://github.com/todbot/circuitpython-tricks)
