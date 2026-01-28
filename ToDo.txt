@@ -7,11 +7,8 @@ Install the Circuitpython v2 extension.
 
 Ask Copilot how to create a task within VS code to copy your Pyportal's files to the local repo. This should be done before committing, since the local repo is on your HDD.
 
-Read the first learning guide, intro. Read up and including "Internet connect", start your first project by copying it. Learn how to use circup. Be sure to update the ESP32 firmware, as instructed in the guide.
+Read the first learning guide, intro. Read up and including "Internet connect", start your first project by copying it. Learn how to use circup (regularly). Be sure to update the ESP32 firmware, as instructed in the guide.
 Download the latest bundle so you have all the examples.
-
-Start a new branch "E-level". On this branch you close E-issues and then do a Merge Pull Request via the PR extension when they are all completed. You can also click commit & create Pull Request when committing the last issue in that level. 
-Create a new branch "D-level" from your completed E-level branch and continue to work.
 
 Create an issue for each of the TODOs below. You can do this inside VS code, or on github.dev.
 
@@ -24,7 +21,7 @@ Edit the code.py on your CPY and when an issue is solved, run your task to copy 
 
 ________________E________________________
 TODO Run the Internet Connect code. Try to understand most of it, and get rid of unneccessary code once it works. First commit.
-TODO Weatherstation changed for your city. See picture in README. Use Open Meteo. Display in labels. 
+TODO Weatherstation changed for your city. See picture in README. Use Open Meteo instead of Open weather. Display in labels. 
 TODO Use a nice big font, see guide Custom Fonts Pyportal.
      Press Option when opening FontForge, pixelsize 12,16,24. Choose appropriate characters, dont forget space, degree etc.
 TODO Make a background in Google Slides, GIMP and/or AI.
